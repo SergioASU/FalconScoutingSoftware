@@ -6,11 +6,17 @@ Keep in mind, this was my first big application ever. The code is not written ve
 This application was written in C# and what I had to learn/overcome was:
 
 How to get joysticks to manipulate a UI
+
 How to import csv file and display its contents to a UI
+
 Save information to a text file
+
 Export csv files to excel (all through the program)
+
 Import excel sheets to the program
+
 Manipulate Excel sheets via the program
+
 Save excel sheets
 
 Probably the most important part of this project was that I released this to the public for any and all robotics teams to use! Here is the forum post where I shared my program, got positive feedback, and acted as a technical support for anyone trying to use my application for their own teams: https://www.chiefdelphi.com/forums/showthread.php?t=113210&highlight=scouting+system
