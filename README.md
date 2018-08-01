@@ -23,5 +23,7 @@ Probably the most important part of this project was that I released this to the
 
 At the time, I did not know how to use Github, so I posted my code to Google Code: https://code.google.com/archive/p/falcon-robotics-scouting-software/downloads
 
+Here is the instruction doc I made for the program: https://docs.google.com/document/d/1q-NXJUNPGG-YXPARVIINxtQV1GZeekstAG2OLUVRKyc/edit
+
 
   
