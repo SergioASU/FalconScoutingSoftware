@@ -19,7 +19,7 @@ Manipulate Excel sheets via the program
 
 Save excel sheets
 
-Probably the most important part of this project was that I released this to the public for any and all robotics teams to use! Here is the forum post where I shared my program, got positive feedback, and acted as a technical support for anyone trying to use my application for their own teams: https://www.chiefdelphi.com/forums/showthread.php?t=113210&highlight=scouting+system
+Probably the most important part of this project was that I released this to the public for any and all robotics teams to use! Here is the forum post where I shared my program, got positive feedback, and acted as a technical support for anyone trying to use my application for their own teams: https://www.chiefdelphi.com/forums/showthread.php?t=113210
 
 At the time, I did not know how to use Github, so I posted my code to Google Code: https://code.google.com/archive/p/falcon-robotics-scouting-software/downloads
 
